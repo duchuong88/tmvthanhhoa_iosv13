@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230039605377",
+    "firebase_url": "https://tmv-thanh-hoa-default-rtdb.firebaseio.com",
+    "project_id": "tmv-thanh-hoa",
+    "storage_bucket": "tmv-thanh-hoa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230039605377:android:01f187b04b871e47987d80",
+        "android_client_info": {
+          "package_name": "thammyvienthanhhoa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKa5UZeDyrNXABLrhH70zoE22flKadv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
